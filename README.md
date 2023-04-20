@@ -26,3 +26,7 @@ will slowly refill while you do not fire the space weapon. Use your ammunition s
 ### Credits
 - Code by Brandon Turok
 - Art and music from opengameart.org
+
+### Notes
+This game was developed on an M1 (ARM) Macintosh with 16 GB of RAM. It seems to run more slowly on Intel machines. For
+the best possible experience, run this game on a machine with the most horsepower you can find!
